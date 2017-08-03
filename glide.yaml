@@ -1,0 +1,4 @@
+package: github.com/berryhill/docker-fun
+import:
+- package: github.com/labstack/echo
+  version: v3.2.1
